@@ -92,7 +92,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         // Set FlappyBird-Text
         headerLabel.fontName = "04b_19"
         headerLabel.fontSize = 120
-        headerLabel.text = "FlappyBird"
+        headerLabel.text = "FlappyFlirt"
         headerLabel.fontColor = UIColor.white
         headerLabel.position = CGPoint(x: self.frame.midX, y: self.frame.midY + 250)
         self.addChild(headerLabel)
