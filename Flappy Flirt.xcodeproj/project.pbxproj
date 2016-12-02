@@ -38,7 +38,7 @@
 		B480F0BC1D782763002517D8 /* pipe2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pipe2.png; path = ../pipe2.png; sourceTree = "<group>"; };
 		B4C296341D77B208005F800B /* tapHere.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tapHere.png; path = ../tapHere.png; sourceTree = "<group>"; };
 		B4C2963C1D77B88E005F800B /* versionImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = versionImg.png; path = ../versionImg.png; sourceTree = "<group>"; };
-		B4FF21D61D764FEA005C16B8 /* Flappy Bird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flappy Bird.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4FF21D61D764FEA005C16B8 /* Flappy Flirt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flappy Flirt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FF21D91D764FEA005C16B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4FF21DB1D764FEA005C16B8 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		B4FF21DD1D764FEA005C16B8 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		B4FF21D71D764FEA005C16B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B4FF21D61D764FEA005C16B8 /* Flappy Bird.app */,
+				B4FF21D61D764FEA005C16B8 /* Flappy Flirt.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -114,9 +114,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B4FF21D51D764FEA005C16B8 /* Flappy Bird */ = {
+		B4FF21D51D764FEA005C16B8 /* Flappy Flirt */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B4FF21EE1D764FEA005C16B8 /* Build configuration list for PBXNativeTarget "Flappy Bird" */;
+			buildConfigurationList = B4FF21EE1D764FEA005C16B8 /* Build configuration list for PBXNativeTarget "Flappy Flirt" */;
 			buildPhases = (
 				B4FF21D21D764FEA005C16B8 /* Sources */,
 				B4FF21D31D764FEA005C16B8 /* Frameworks */,
@@ -126,9 +126,9 @@
 			);
 			dependencies = (
 			);
-			name = "Flappy Bird";
+			name = "Flappy Flirt";
 			productName = "Flappy Bird";
-			productReference = B4FF21D61D764FEA005C16B8 /* Flappy Bird.app */;
+			productReference = B4FF21D61D764FEA005C16B8 /* Flappy Flirt.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -148,7 +148,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B4FF21D11D764FEA005C16B8 /* Build configuration list for PBXProject "Flappy Bird" */;
+			buildConfigurationList = B4FF21D11D764FEA005C16B8 /* Build configuration list for PBXProject "Flappy Flirt" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -161,7 +161,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B4FF21D51D764FEA005C16B8 /* Flappy Bird */,
+				B4FF21D51D764FEA005C16B8 /* Flappy Flirt */,
 			);
 		};
 /* End PBXProject section */
@@ -352,7 +352,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B4FF21D11D764FEA005C16B8 /* Build configuration list for PBXProject "Flappy Bird" */ = {
+		B4FF21D11D764FEA005C16B8 /* Build configuration list for PBXProject "Flappy Flirt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4FF21EC1D764FEA005C16B8 /* Debug */,
@@ -361,7 +361,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B4FF21EE1D764FEA005C16B8 /* Build configuration list for PBXNativeTarget "Flappy Bird" */ = {
+		B4FF21EE1D764FEA005C16B8 /* Build configuration list for PBXNativeTarget "Flappy Flirt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B4FF21EF1D764FEA005C16B8 /* Debug */,
