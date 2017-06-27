@@ -143,7 +143,7 @@
 				TargetAttributes = {
 					B4FF21D51D764FEA005C16B8 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = JQNK74493B;
+						DevelopmentTeam = 4BLWLFDFU8;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -322,11 +322,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = 4BLWLFDFU8;
 				INFOPLIST_FILE = "Flappy Bird/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.flappybird.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.dice3.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -338,11 +338,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = 4BLWLFDFU8;
 				INFOPLIST_FILE = "Flappy Bird/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.flappybird.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.dice3.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
